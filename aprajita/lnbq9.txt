@@ -1,0 +1,9 @@
+a=input("enter file name :")
+file='/user/desktop/test.a'
+open(file,a)
+def f(b,c,d) :
+while(l):
+sf(p1,p2,p3)
+p1=getmath
+p2=memory(RAM)
+P3=uname
